@@ -1,3 +1,3 @@
 # flux-repo
 
-For test
+For testing
